@@ -1,0 +1,20 @@
+SyntaxError: Unexpected token } in JSON at position 65
+    at JSON.parse (<anonymous>)
+    at parse (C:\Develop\React\portfolio-server-imran\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Develop\React\portfolio-server-imran\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:224:16)
+    at done (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:406:35)
+    at endReadableNT (node:internal/streams/readable:1331:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+SyntaxError: Unexpected token } in JSON at position 72
+    at JSON.parse (<anonymous>)
+    at parse (C:\Develop\React\portfolio-server-imran\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Develop\React\portfolio-server-imran\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:224:16)
+    at done (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Develop\React\portfolio-server-imran\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (node:events:406:35)
+    at endReadableNT (node:internal/streams/readable:1331:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
